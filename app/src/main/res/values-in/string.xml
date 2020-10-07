@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github user</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="no_users_found_yet">Tidak ada user ditemukan</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="find_github_user">Cari pengguna github</string>
+    <string name="no_name">Nama tidak tersedia</string>
+    <string name="username_with_bracket">(%1$s)</string>
+    <string name="user_detail">Detail Pengguna</string>
+</resources>

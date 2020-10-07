@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">Username</string>
+    <string name="no_users_found_yet">No users found yet</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="find_github_user">Find github user</string>
+    <string name="no_name">No name</string>
+    <string name="username_with_bracket">(%1$s)</string>
+    <string name="user_detail">User Detail</string>
+</resources>
